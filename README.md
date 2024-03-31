@@ -1,6 +1,7 @@
 ![logo](https://github.com/rayennebr/rayennebr/blob/aa25de78cb64e0749e3071858fc5fe4e36dff873/linked%201%401x.png)
 <h1 align="center">Hi 👋, I'm Rayenne brik</h1>
 <h3 align="center">Experienced Java and Angular developer with a strong passion for creating innovative and efficient software solutions.</h3>
+<img align="right" height=300 width=350 src="https://github.com/rayennebr/rayennebr/blob/c9386234ee3963812c5f2d1ef2bbde36a7280f0c/animatedprog.gif"/>
 
 - 👨‍💻 All of my projects are available at [https://rayennebr.github.io/rayenne_brik.github.io/](https://rayennebr.github.io/rayenne_brik.github.io/)
 
