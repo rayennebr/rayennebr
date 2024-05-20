@@ -1,6 +1,9 @@
 ![logo](https://github.com/rayennebr/rayennebr/blob/aa25de78cb64e0749e3071858fc5fe4e36dff873/linked%201%401x.png)
 <h1 align="center">Hi 👋, I'm Rayenne brik</h1>
-<h3 align="center">full-stack developer ☕🖥️🅰️ </h3>
+<p align="center">
+ <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=0F16AE5&center=true&vCenter=true&random=false&width=435&lines=software+engineer+🖥️+🌐;Java+developer+☕;Spring+boot+developer+🖥️;Angular+developer+🅰️" alt="Typing SVG" />
+ </a>
+</p>
 <p align="center">
  <a href="https://linkedin.com/in/rayenne-brik" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rayenne-brik"/>
