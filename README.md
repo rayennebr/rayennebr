@@ -1,7 +1,24 @@
 ![logo](https://github.com/rayennebr/rayennebr/blob/aa25de78cb64e0749e3071858fc5fe4e36dff873/linked%201%401x.png)
-# Rayenne brik
-**`full-stack developer ☕🖥️🅰️`**
-<h3 align="center">Experienced Java and Angular developer with a strong passion for creating innovative and efficient software solutions.</h3>
+<h1 align="center">Hi 👋, I'm Rayenne brik</h1>
+<h3 align="center">full-stack developer ☕🖥️🅰️ </h3>
+<p align="center">
+ <a href="https://linkedin.com/in/rayenne-brik" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rayenne-brik"/>
+ </a>
+</p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<h3 align="left"> 🕵🏻 About Me:</h3>
+<h4 align="center">I am a full-stack developer specializing in Spring Boot and Angular. I have extensive expertise in SQL, PL/SQL, as well as with Oracle and PostgreSQL databases. In addition to my technical skills, I also have experience as a Java trainer. I am proficient with tools such as Jenkins, Git, and Docker, which I use to optimize my development processes.</h4>
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+</div>
 <img align="right" height=250 width=350 src="https://github.com/rayennebr/rayennebr/blob/c9386234ee3963812c5f2d1ef2bbde36a7280f0c/animatedprog.gif"/>
 
 - 👨‍💻 All of my projects are available at [https://rayennebr.github.io/rayenne_brik.github.io/](https://rayennebr.github.io/rayenne_brik.github.io/)
@@ -11,50 +28,42 @@
 - 📄 Know about my experiences [https://cvdesignr.com/p/5bd8f3bb1f6e9](https://cvdesignr.com/p/5bd8f3bb1f6e9)
 
 - ⚡ Fun fact **I am funny**
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<h3 align="left"> 🖥️ Languages and Tools:</h3>
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=nodejs" width="100"></td>
+    <td><img src="https://skillicons.dev/icons?i=javascript" width="100"></td>
+    <td><img src="https://skillicons.dev/icons?i=github" width="100"></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql" width="100"></td>
+    <td><img src="https://skillicons.dev/icons?i=java" width="100"></td>
+    <td><img src="https://skillicons.dev/icons?i=html" width="100"></td>
+    <td><img src="https://skillicons.dev/icons?i=css" width="100"></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode" width="100"></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb" width="100"></td>
+    <td><img src="https://skillicons.dev/icons?i=typescript" width="100"></td>
+    <td><img src="https://skillicons.dev/icons?i=spring" width="100"></td>
+  </tr>
+    <tr>
+    <td><img src="https://skillicons.dev/icons?i=angular" width="100"></td>
+    <td><img src="https://skillicons.dev/icons?i=docker" width="100"></td>
+    <td><img src="https://skillicons.dev/icons?i=jenkins" width="100"></td>
+    <td><img src="https://skillicons.dev/icons?i=grafana" width="100"></td>
+    <td><img src="https://skillicons.dev/icons?i=prometheus" width="100"></td>
+    <td><img src="https://skillicons.dev/icons?i=kafka" width="100"></td>
+    <td><img src="https://skillicons.dev/icons?i=hibernate" width="100"></td>
+    <td><img src="https://skillicons.dev/icons?i=idea" width="100"></td>
+    <td><img src="https://skillicons.dev/icons?i=maven" width="100"></td>
+    <td><img src="https://skillicons.dev/icons?i=npm" width="100"></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres" width="100"></td>
+    </tr>
+  </tr>
+</table>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rayenne-brik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rayenne-brik" height="30" width="40" /></a>
-</p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<p align="center"><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayennebr&show_icons=true&locale=en&layout=compact" alt="rayennebr" /> </p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<h3 align="left">Activity:</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  
-<ul>languages:
-  <li><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>  </li>
-</ul>
-<ul>Frameworks:
-  <li><a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-    <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-       <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> 
-  </li>
-</ul>
-<ul>Web:
-  <li><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-      <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
-  </li>
-</ul>
-<ul>Databases:
-  <li><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  </li>
-</ul>
-<ul> Tools:
-  <li>
-     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>
-  </li>
-  <li>
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-  </li>
-</ul>        
-</p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayennebr&show_icons=true&locale=en&layout=compact" alt="rayennebr" /></p>
+![rayennebr's Graph](https://github-readme-activity-graph.vercel.app/graph?username=rayennebr&custom_title=Rayenne's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br><br>
