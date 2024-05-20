@@ -1,6 +1,6 @@
 ![logo](https://github.com/rayennebr/rayennebr/blob/aa25de78cb64e0749e3071858fc5fe4e36dff873/linked%201%401x.png)
 # Rayenne brik
-**`full-stack developer developer ☕🖥️🅰️`**
+**`full-stack developer ☕🖥️🅰️`**
 <h3 align="center">Experienced Java and Angular developer with a strong passion for creating innovative and efficient software solutions.</h3>
 <img align="right" height=250 width=350 src="https://github.com/rayennebr/rayennebr/blob/c9386234ee3963812c5f2d1ef2bbde36a7280f0c/animatedprog.gif"/>
 
